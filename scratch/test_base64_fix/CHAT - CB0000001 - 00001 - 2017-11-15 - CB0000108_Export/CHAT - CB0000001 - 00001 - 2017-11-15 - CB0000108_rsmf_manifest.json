@@ -1,0 +1,45 @@
+{
+  "version": "2.0.0",
+  "participants": [
+    {
+      "id": "e98ed4e10a44f2951f38682f0ae8babb",
+      "display": "David Perkins <(919) 621-6009>"
+    },
+    {
+      "id": "61c143c22d73b08a9c9cb7bfff91cb94",
+      "display": "Casey J. Brunner <+17735736500>"
+    }
+  ],
+  "conversations": [
+    {
+      "id": "84c8c6fc-b716-447d-8e80-6d56e74f811a",
+      "display": "CHAT - CB0000001 - 00001 - 2017/11/15",
+      "platform": "SMS",
+      "type": "direct",
+      "participants": [
+        "e98ed4e10a44f2951f38682f0ae8babb",
+        "61c143c22d73b08a9c9cb7bfff91cb94"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "CB0000108",
+      "type": "message",
+      "body": "Attached URL: https://p35-content.icloud.com/M694EBF66AACF236F4E1378BAD920A9781542E892351FBE0A88D3962A643BAEE2.C01USN00\r\nAttachment Title: IMG_1636.JPG",
+      "participant": "61c143c22d73b08a9c9cb7bfff91cb94",
+      "conversation": "84c8c6fc-b716-447d-8e80-6d56e74f811a",
+      "deleted": false,
+      "importance": "normal",
+      "timestamp": "2017-11-15T02:53:30Z",
+      "attachments": [
+        {
+          "id": "CB0000109_Attach.JPG",
+          "display": "IMG_1636.JPG",
+          "size": 1632643
+        }
+      ],
+      "direction": "incoming"
+    }
+  ]
+}

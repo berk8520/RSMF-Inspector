@@ -1,0 +1,7 @@
+# RSMF Inspector - Pinned Dependencies for Windows Server 2016 Compatibility
+# Note: PySide6 6.7.3 avoids hard-coded SetThreadDescription kernel dependencies (Windows Server 2016 Build 14393)
+
+pyside6==6.7.3
+pillow==12.2.0
+pillow-heif==1.5.0
+pyinstaller>=6.0.0

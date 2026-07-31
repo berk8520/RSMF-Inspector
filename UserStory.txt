@@ -1,0 +1,29 @@
+User Story
+As a software solutions developer in the e-discovery industry,
+
+I want a streamlined, two-pane PySide6 desktop application with a tabbed viewing pane and top-level metric cards,
+
+So that I can rapidly inspect RSMF containers, view key summary statistics at a glance, navigate between the standard chat view, raw JSON payload, and attachment lists, and validate file structures using integrated C# validator logic.
+
+Acceptance Criteria
+Two-Pane Layout (20  80 Split)
+
+Left Pane (approx. 20%) Houses the directory loader, navigation controls, and a scrollable in-memory file list (dict[str, str]).
+
+Right Pane (approx. 80%) Acts as the main inspection workspace containing summary metric cards and a tabbed viewer.
+
+Top Summary Metric Cards
+
+Displays real-time metadata statistics extracted from the RSMF manifest Participants Count, Message Event Count, Attachment Count, and Date Range.
+
+Tabbed Viewing Pane
+
+Tab 1 (RSMF View) Standard conversation thread renderer.
+
+Tab 2 (JSON View) Direct stream of the manifest and metadata payload.
+
+Tab 3 (Attachment List) Clickable list supporting on-demand temp-directory streaming and default OS application execution.
+
+Integrated C# Validator Reference
+
+Incorporates or bridges the C# validator located at CcodepythonRsmfInspectorreference Codersmf-validator-samples-master as a pre-flight verification step before rendering payloads.

@@ -1,0 +1,67 @@
+{
+  "version": "2.0.0",
+  "participants": [
+    {
+      "id": "e98ed4e10a44f2951f38682f0ae8babb",
+      "display": "David Perkins <(919) 621-6009>"
+    },
+    {
+      "id": "61c143c22d73b08a9c9cb7bfff91cb94",
+      "display": "Casey J. Brunner <+17735736500>"
+    }
+  ],
+  "conversations": [
+    {
+      "id": "9c97d5cc-526c-472a-b537-7e645dc1bb6e",
+      "display": "CHAT - CB0000001 - 00001 - 2018/05/13",
+      "platform": "SMS",
+      "type": "direct",
+      "participants": [
+        "e98ed4e10a44f2951f38682f0ae8babb",
+        "61c143c22d73b08a9c9cb7bfff91cb94"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "CB0000188",
+      "type": "message",
+      "body": "Attached URL: https://p17-content.icloud.com/MAF849A3A999B40C5B91B8BC385755FF7D8FFE5369F2AB8CAD9A7EE1385526B1A.C01USN00\r\nAttachment Title: IMG_2616.jpeg",
+      "participant": "e98ed4e10a44f2951f38682f0ae8babb",
+      "conversation": "9c97d5cc-526c-472a-b537-7e645dc1bb6e",
+      "deleted": false,
+      "importance": "normal",
+      "timestamp": "2018-05-13T23:06:43Z",
+      "attachments": [
+        {
+          "id": "CB0000189_Attach.jpeg",
+          "display": "IMG_2616.jpeg",
+          "size": 2027423
+        }
+      ],
+      "direction": "outgoing"
+    },
+    {
+      "id": "CB0000190",
+      "type": "message",
+      "body": "Man that looks awesome.  Like a postcard.  Wish I was there!",
+      "participant": "61c143c22d73b08a9c9cb7bfff91cb94",
+      "conversation": "9c97d5cc-526c-472a-b537-7e645dc1bb6e",
+      "deleted": false,
+      "importance": "normal",
+      "timestamp": "2018-05-13T23:07:15Z",
+      "direction": "incoming"
+    },
+    {
+      "id": "CB0000191",
+      "type": "message",
+      "body": "Love to have you.  Maybe we can do a fishing trip.",
+      "participant": "e98ed4e10a44f2951f38682f0ae8babb",
+      "conversation": "9c97d5cc-526c-472a-b537-7e645dc1bb6e",
+      "deleted": false,
+      "importance": "normal",
+      "timestamp": "2018-05-13T23:08:12Z",
+      "direction": "outgoing"
+    }
+  ]
+}
